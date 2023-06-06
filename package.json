@@ -1,0 +1,21 @@
+{
+  "name": "pedido-de-namoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAGO2KBR/PedidoDeNamoro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAGO2KBR/PedidoDeNamoro/issues"
+  },
+  "homepage": "https://github.com/IAGO2KBR/PedidoDeNamoro#readme"
+}
